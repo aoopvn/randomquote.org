@@ -148,7 +148,7 @@ module.exports = [
 			by: 'Unknown'
 		},
 		{
-			content: 'No one is going to hand me success. I must go out &amp; get it myself. That’s why I’m here. To dominate. To conquer. Both the world, and myself.',
+			content: 'No one is going to hand me success. I must go out & get it myself. That’s why I’m here. To dominate. To conquer. Both the world, and myself.',
 			by: 'Unknown'
 		},
 		{
