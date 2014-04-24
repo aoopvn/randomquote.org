@@ -16,7 +16,7 @@
 	
 	for(var i = 1; i<imgCount +1; i++) {
 		
-		images.push('/images/' + i + '.jpg');
+		images.push('images/' + i + '.jpg');
 	}
 	
 	var loadedImages = [];
