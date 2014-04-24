@@ -1,0 +1,237 @@
+{
+  "id": "1013f09e",
+  "cfgVersion": 2,
+  "name": "Random Quotes",
+  "path": "",
+  "files": {
+    "98900124": {
+      "id": "98900124",
+      "pid": "1013f09e",
+      "path": "images/1.jpg",
+      "name": "1.jpg",
+      "category": "IMAGE",
+      "size": 2073752,
+      "type": "jpg",
+      "initialSize": 2073752,
+      "optimized": false
+    },
+    "4ff042b1": {
+      "id": "4ff042b1",
+      "pid": "1013f09e",
+      "path": "js/app.js",
+      "name": "app.js",
+      "category": "JS",
+      "autoCompile": true,
+      "uglify": true,
+      "mangle": true,
+      "sourceMaps": true,
+      "customOutput": false,
+      "type": "javascript"
+    },
+    "cd07ef67": {
+      "id": "cd07ef67",
+      "pid": "1013f09e",
+      "path": "css/style.scss",
+      "name": "style.scss",
+      "category": "CSS",
+      "autoCompile": true,
+      "lineNumbers": false,
+      "unixNewLines": false,
+      "sourceMaps": false,
+      "debug": false,
+      "compass": false,
+      "fullCompass": false,
+      "outputStyle": "expanded",
+      "autoprefixer": true,
+      "customOutput": false,
+      "type": "sass"
+    },
+    "465153cd": {
+      "id": "465153cd",
+      "pid": "1013f09e",
+      "path": "images/2.jpg",
+      "name": "2.jpg",
+      "category": "IMAGE",
+      "size": 6100432,
+      "type": "jpg",
+      "initialSize": 6100432,
+      "optimized": false
+    },
+    "b83d461d": {
+      "id": "b83d461d",
+      "pid": "1013f09e",
+      "path": "images/4.jpg",
+      "name": "4.jpg",
+      "category": "IMAGE",
+      "size": 2768510,
+      "type": "jpg",
+      "initialSize": 2768510,
+      "optimized": false
+    },
+    "8790b7f7": {
+      "id": "8790b7f7",
+      "pid": "1013f09e",
+      "path": "images/3.jpg",
+      "name": "3.jpg",
+      "category": "IMAGE",
+      "size": 4545782,
+      "type": "jpg",
+      "initialSize": 4545782,
+      "optimized": false
+    },
+    "8b49ced5": {
+      "id": "8b49ced5",
+      "pid": "1013f09e",
+      "path": "images/5.jpg",
+      "name": "5.jpg",
+      "category": "IMAGE",
+      "size": 183356,
+      "type": "jpg",
+      "initialSize": 183356,
+      "optimized": false
+    },
+    "b51be443": {
+      "id": "b51be443",
+      "pid": "1013f09e",
+      "path": "images/7.jpg",
+      "name": "7.jpg",
+      "category": "IMAGE",
+      "size": 846493,
+      "type": "jpg",
+      "initialSize": 846493,
+      "optimized": false
+    },
+    "5e74ae0e": {
+      "id": "5e74ae0e",
+      "pid": "1013f09e",
+      "path": "images/6.jpg",
+      "name": "6.jpg",
+      "category": "IMAGE",
+      "size": 5050720,
+      "type": "jpg",
+      "initialSize": 5050720,
+      "optimized": false
+    },
+    "b5642ebc": {
+      "id": "b5642ebc",
+      "pid": "1013f09e",
+      "path": "images/10.jpg",
+      "name": "10.jpg",
+      "category": "IMAGE",
+      "size": 17875538,
+      "type": "jpg",
+      "initialSize": 17875538,
+      "optimized": false
+    },
+    "6af79e19": {
+      "id": "6af79e19",
+      "pid": "1013f09e",
+      "path": "images/8.jpg",
+      "name": "8.jpg",
+      "category": "IMAGE",
+      "size": 753149,
+      "type": "jpg",
+      "initialSize": 753149,
+      "optimized": false
+    },
+    "4d0a5bf3": {
+      "id": "4d0a5bf3",
+      "pid": "1013f09e",
+      "path": "images/9.jpg",
+      "name": "9.jpg",
+      "category": "IMAGE",
+      "size": 16509634,
+      "type": "jpg",
+      "initialSize": 16509634,
+      "optimized": false
+    },
+    "d2e2602f": {
+      "id": "d2e2602f",
+      "pid": "1013f09e",
+      "path": "index.jade",
+      "name": "index.jade",
+      "category": "HTML",
+      "autoCompile": true,
+      "pretty": true,
+      "customOutput": false,
+      "type": "jade"
+    },
+    "a47e7af5": {
+      "id": "a47e7af5",
+      "pid": "1013f09e",
+      "path": "data.js",
+      "name": "data.js",
+      "category": "JS",
+      "autoCompile": false,
+      "uglify": true,
+      "mangle": true,
+      "sourceMaps": false,
+      "customOutput": false,
+      "type": "javascript"
+    }
+  },
+  "imports": {},
+  "deploymentHistory": {},
+  "config": {
+    "watch": true,
+    "liveRefresh": true,
+    "useCustomServer": false,
+    "port": 0,
+    "useCustomPort": false,
+    "customServerUrl": "",
+    "addOutputToList": false,
+    "clickSync": true,
+    "relativeScroll": false,
+    "scrollThrottle": 0,
+    "css": {
+      "path": "css/",
+      "pathType": "REPLACE_TYPE",
+      "types": "less, sass, stylus, scss, styl",
+      "preprocessableFilesDirs": ""
+    },
+    "html": {
+      "path": "html/",
+      "extension": ".html",
+      "pathType": "REPLACE_TYPE",
+      "types": "jade, haml, slim, markdown, md, kit",
+      "preprocessableFilesDirs": ""
+    },
+    "js": {
+      "path": "js/",
+      "pathType": "REPLACE_TYPE",
+      "types": "coffee, coffeescript, coffeescripts, ls, livescript, livescripts",
+      "preprocessableFilesDirs": ""
+    },
+    "minJs": {
+      "path": "",
+      "pathType": "RELATIVE_FILEDIR",
+      "preprocessableFilesDirs": ""
+    },
+    "filterPatterns": "",
+    "autoprefixerBrowsers": "",
+    "liveRefreshDelay": 0,
+    "hidePartials": true,
+    "hideImports": {
+      "sass": true,
+      "less": true,
+      "stylus": true,
+      "coffee": true,
+      "javascript": true,
+      "jade": true,
+      "slim": true
+    },
+    "deployment": {
+      "ftpHost": "",
+      "ftpPort": "21",
+      "ftpRemotePath": "",
+      "ftpUserName": "",
+      "ftpPassword": "",
+      "ftpType": "FTP",
+      "ftpSecure": false,
+      "ftpUploadOnModify": false,
+      "ftpRefreshAfterUpload": false,
+      "ignorePreprocessableFiles": true,
+      "excludePatterns": "config.rb, prepros-config.json, prepros-ftp.json, node_modules, .git, .idea, .sass-cache, .hg, .svn, .cache, .project, .DS_Store"
+    }
+  }
+}
