@@ -44,6 +44,10 @@ p {
   padding: 0 20px;
 }
 
+#data {
+  display: none;
+}
+
 .container blockquote {
   margin: auto;
 }
